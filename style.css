@@ -79,6 +79,15 @@
     justify-content: space-around;
 }
 
+.aboutme .image img{
+    padding-left: 50px;
+    padding-top: 50px;
+    border-radius: 25px;
+    box-shadow: 2px 3px 50px -7px rgba(0,0,0,0.8);
+    -webkit-box-shadow: 2px 3px 50px -7px rgba(0,0,0,0.8);
+    -moz-box-shadow: 2px 3px 50px -7px rgba(0,0,0,0.8);
+}
+
 .aboutme .texts{
     padding-left: 35px;
 }
